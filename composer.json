@@ -1,0 +1,13 @@
+{
+    "name": "aspire/todo-list",
+    "type": "project",
+    "authors": [
+        {
+            "name": "daniar",
+            "email": "daniar.ah55@gmail.com"
+        }
+    ],
+    "require": {
+        "tamtamchik/simple-flash": "^1.2"
+    }
+}
